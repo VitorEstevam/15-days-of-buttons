@@ -5,7 +5,9 @@
 # Desafios 👨‍💻
 * [day 1](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%201)
 * [day 2](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%202)
+* [day 3 (extra)](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%203)
 
 # sobre a criadora do desafio 📝
-https://twitter.com/juligaioso
-https://github.com/juligaioso/
+
+* https://twitter.com/juligaioso
+* https://github.com/juligaioso/
