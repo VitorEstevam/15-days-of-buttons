@@ -1,10 +1,10 @@
 # Hover Button
 
-A idéia é criar um botão com efeito card hover: o botão "vira" como se fosse uma carta, exibindo o conteúdo do botão.
+Fazer um botão com efeito hover, que exibe um conteúdo
 
 ![alt text](./gif.gif "")
 
-#### O que utilizar:
+#### O que foi utilizado:
 
 <ul><li>:hover</li>
 <li>transition</li></ul>
