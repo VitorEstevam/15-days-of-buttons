@@ -1,5 +1,5 @@
-# Switch
-Fazer um switch que se comporta como um interruptor de parede.
+# bubble button
+ Fazer um botão com um efeito hover que cresce como uma bolha.
 
 ![alt text](./gif.gif "")
 
@@ -9,5 +9,3 @@ Fazer um switch que se comporta como um interruptor de parede.
 <li>gradient</li>
 <li>box-shadow</li>
 </ul>
-
-## Esse é um extra :D 
