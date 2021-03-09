@@ -14,30 +14,6 @@ body {
     margin: 0%;
 }
 
-@keyframes shake2 {
-    0% {
-        margin-left: 0px;
-    }
-
-    25% {
-        margin-left: 10px;
-        transform: rotate(5deg)
-    }
-
-    50% {
-        margin-left: 0px;
-    }
-
-    75% {
-        margin-left: -10px;
-        transform: rotate(-5deg)
-    }
-
-    100% {
-        margin-left: 0px;
-    }
-}
-
 #checkbox {
     appearance: none;
     border: none;
