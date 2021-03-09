@@ -1,0 +1,122 @@
+html {
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightyellow;
+}
+
+* {
+    margin: 0%;
+}
+
+@keyframes shake2 {
+    0% {
+        margin-left: 0px;
+    }
+
+    25% {
+        margin-left: 10px;
+        transform: rotate(5deg)
+    }
+
+    50% {
+        margin-left: 0px;
+    }
+
+    75% {
+        margin-left: -10px;
+        transform: rotate(-5deg)
+    }
+
+    100% {
+        margin-left: 0px;
+    }
+}
+
+#checkbox {
+    appearance: none;
+    border: none;
+    outline: none;
+}
+
+.button-container {
+    position: relative;
+    width: 100px;
+    height: 100px;
+}
+
+.button {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
+    margin-left: 0px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    background-color: lightcoral;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+    animation-name: shake;
+    animation-duration: 0.5s;
+    animation-delay: 0.5s;
+    animation-iteration-count: infinite;
+
+    transition: all 0.5s;
+}
+
+#checkbox:checked+.button {
+    appearance: none;
+    border: none;
+    outline: none;
+    border-radius: 20px;
+    margin-left: 0px;
+
+    background-color: lightskyblue;
+
+    animation-iteration-count: 1;
+}
+
+.button span {
+    height: 50%;
+    width: 3px;
+    background-color: black;
+    position: absolute;
+
+    transition: all 0.5s;
+}
+
+.button span:nth-child(1) {
+    transform: rotate(-45deg);
+    transition: all 0.5s;
+}
+
+.button span:nth-child(2) {
+    transform: rotate(45deg)
+}
+
+.button span:nth-child(2) span {
+    left: 0;
+    bottom: 0;
+    transform-origin: 60% 100%;
+    transform: rotate(0deg);
+    transition: all 0.5s;
+}
+
+#checkbox:checked+.button span {
+    margin-left: 25%;
+}
+
+#checkbox:checked+.button span:nth-child(2) span {
+    transform: rotate(-90deg);
+}
+
+#checkbox:checked+.button span:nth-child(1) {
+    transform: rotate(45deg);
+}
