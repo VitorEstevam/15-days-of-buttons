@@ -10,6 +10,8 @@
 * [day 4🍔](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%204)
 * [day 5](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%205)
 * [day 6 (extra)](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%206%20extra)
+* [day 7 (extra)](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%207%20extra)
+* [day 8 (extra)](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%208%20extra)
 
 # sobre a criadora do desafio 📝
 
