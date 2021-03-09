@@ -1,4 +1,4 @@
-# Checkbox Alarm
+# Checkbox animated bars
  Fazer um checkbox que vire as barrinhas formando um X e um V.
 
 ![alt text](./gif.gif "")
