@@ -15,7 +15,7 @@
 * [day 9 (extra)](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%209%20extra)
 * [day 10 (extra)](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%2010%20extra)
 
-# sobre a criadora do desafio 📝
+# Sobre a criadora do desafio 📝
 
 * https://twitter.com/juligaioso
 * https://github.com/juligaioso/
