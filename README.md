@@ -13,8 +13,10 @@
 * [day 7 (extra)](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%207%20extra)
 * [day 8 (extra)](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%208%20extra)
 * [day 9 (extra)](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%209%20extra)
+* [day 10 (extra)](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%2010%20extra)
+* [day 11 (extra)](https://github.com/VitorEstevam/15-days-of-buttons/tree/main/days/day%2011%20extra)
 
-# sobre a criadora do desafio 📝
+# Sobre a criadora do desafio 📝
 
 * https://twitter.com/juligaioso
 * https://github.com/juligaioso/
